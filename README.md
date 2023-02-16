@@ -2,7 +2,7 @@
 
 ## About me
 
-My name is Santiago. I'm from <strong>Montevideo - Uruguay</strong>.<br><br/>I am a <strong>freelance web designer and developer</strong> who is in love with coding.
+My name is Santiago. I'm from <strong>Montevideo - Uruguay</strong>.<br><br/>I am a <strong>freelance web designer and developer</strong> who is in ❤ with coding.
 
 <ul>
     <li>I've knowledge in UI/UX design</li>
