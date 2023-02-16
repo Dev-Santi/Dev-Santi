@@ -1,9 +1,5 @@
-## About me 😀
+## Hi! 👋
 
-Hi, my name is Santiago.
-<ul>
-    <li>Si</li>
-</ul>
-I am a freelance web designer and developer who is in love with coding.
+Hi, my name is Santiago. I'm from <strong>Montevideo (Uruguay)</strong>and I am a <strong>freelance web designer and developer</strong> who is in love with coding.
 
 
