@@ -1,6 +1,6 @@
 # Design and web development 📱💻🖥
 
-##About me
+## About me
 
 My name is Santiago. I'm from <strong>Montevideo - Uruguay</strong>.
 I am a <strong>freelance web designer and developer</strong> who is in love with coding.
