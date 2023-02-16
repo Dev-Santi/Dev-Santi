@@ -1,4 +1,4 @@
-# Design and web development 📱💻🖥
+# Design and web development 📱🖥
 
 ## About me
 
