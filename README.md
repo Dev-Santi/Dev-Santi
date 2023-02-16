@@ -5,7 +5,7 @@
 My name is Santiago. I'm from <strong>Montevideo - Uruguay</strong>.<br><br/>I am a <strong>freelance web designer and developer</strong> who is in ❤ with coding.
 
 <ul>
-    <li>I've knowledge in UI/UX design</li>
+    <li>I've knowledge in UI/UX design > Thanks u Steve Krug</li>
     <li>I'm currently studying backend development - MERM</li>
     <li>I've a very good attitude when facing problems</li>
     <li>I'm so confident in my skills and I have the necessary tools to perform at my best.</li>
