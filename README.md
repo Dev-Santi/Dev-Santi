@@ -1,4 +1,4 @@
-# Designer and web developer 📱🖥
+# Designer and Web Developer 📱🖥
 
 ## About me
 
