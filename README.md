@@ -13,6 +13,6 @@ My name is Santiago and I'm from <strong>Montevideo - Uruguay</strong>.<br>I am 
 
 ## Contact
 
-If you want to contact me or see my work in a more visual way, you can visit <a href="#" target="_blank">my website</a>
+If you want to contact me or see my work in a more visual way, you can visit <a href="#" target="_blank">my portfolio</a>
 
 In addition, here is <a href="#cv">my CV</a>
