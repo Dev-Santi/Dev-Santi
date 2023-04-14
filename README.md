@@ -6,7 +6,7 @@ My name is Santiago and I'm from <strong>Montevideo - Uruguay</strong>.<br>I am 
 
 <ul>
     <li>I've some knowledge in UI/UX design, I learned a lot from Steve Krug's books</li>
-    <li>I'm currently studying backend development at <a href="https://www.coderhouse.com.uy/">CoderHouse</a> - MERM</li>
+    <li>I'm currently studying backend development at <a href="https://www.coderhouse.com.uy/">CoderHouse</a> - MERN</li>
     <li>I'm looking for my first job as a web developer 💻</li>
     <li>I'm confident in my skills and I have the necessary tools to perform at my best.</li>
 </ul>
