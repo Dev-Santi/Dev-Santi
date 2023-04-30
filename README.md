@@ -1,11 +1,11 @@
-# Web developer 📱🖥
+# FullStack Web Developer 
 
 ## About me
 
-My name is Santiago and I'm from <strong>Montevideo - Uruguay</strong>.<br>I am a <strong>freelance designer and web developer</strong> who is in ❤ with coding.
+My name is Santiago and I'm from <strong>Montevideo - Uruguay</strong>.<br>I am a <strong>freelance designer and web developer</strong>.
 
 <ul>
-    <li>I've some knowledge in UI/UX design, I learned a lot from Steve Krug's books</li>
+    <li>I've knowledge in UI/UX design</li>
     <li>I'm currently studying backend development at <a href="https://www.coderhouse.com.uy/">CoderHouse</a> - MERN</li>
     <li>I'm looking for my first job as a web developer 💻</li>
     <li>I'm confident in my skills and I have the necessary tools to perform at my best.</li>
