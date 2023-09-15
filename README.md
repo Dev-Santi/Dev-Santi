@@ -1,9 +1,12 @@
 ```html
-<h1>Full Stack Developer - MERN</h1>
-<h2></h2>
+<h1>Desarrollador Full Stack - MERN</h1>
 ```
 
-```jsx
+```markdown
+![imagen](https://images.ctfassets.net/hrltx12pl8hq/5KiKmVEsCQPMNrbOE6w0Ot/341c573752bf35cb969e21fcd279d3f9/hero-img_copy.jpg?fit=fill&w=600&h=400)
+```
+
+```js
 const devSanti = {
   name: "Santiago Larrosa Bauza",
   location: "Montevideo, Uruguay",
