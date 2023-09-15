@@ -1,5 +1,10 @@
-# Full Stack  Developer 💻
+# Full Stack Developer 💻
 
-## About me
+I'm from <strong>Montevideo, Uruguay</strong>
+I am studying systems engineering at Universidad Ort
 
-My name is Santiago and I'm from <strong>Montevideo - Uruguay</strong>
+```js
+const a = {
+  bot: "agus"
+}
+```
