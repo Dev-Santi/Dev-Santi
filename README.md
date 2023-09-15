@@ -7,8 +7,17 @@ I am studying systems engineering at Universidad Ort
 const a = {
   bot: "agus"
 }
+const componente = () => {
+  <p>Holi</p>
+}
 ```
 
 ```html
 <p>Holi</p>
+```
+
+```jsx
+const componente = () => {
+  <p>Holi</p>
+}
 ```
