@@ -13,7 +13,7 @@ const devSanti = {
   ],
   skills: ["HTML", "CSS", "JavaScript", "React", "Vite", "NextJS", "NodeJS", "SASS(.scss)", "MongoDB"],
   hobbies: ["Programar", "Deportes", "Cocinar"],
-  website: "https://websiteThatImWorkingOn.com",
+  website: "https://ImWorkingOnIt.com",
   linkedin: "https://www.linkedin.com/in/santiago-larrosa-bauz%C3%A1-99b740251/",
   email: "bauzalarrosasantiago@gmail.com",
 };
