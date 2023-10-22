@@ -1,4 +1,4 @@
-<h1>Desarrollador Full Stack - MERN</br>📍 Montevideo - Uruguay</h1>
+<h1>Desarrollador Full Stack - MERN</br><span style="font-size: 0.25rem">📍 Montevideo - Uruguay</span></h1>
 
 <h2>
   👨‍🎓 Educación:
