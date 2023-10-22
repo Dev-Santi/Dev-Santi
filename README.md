@@ -42,9 +42,9 @@
 </h2>
 
 <ul>
-  <li><a href="https://santiagolarrosa.tech">Mi sitio web</a></li>
-  <li><a href="https://www.linkedin.com/in/santiago-larrosa-bauz%C3%A1-99b740251/">Linkedin</a></li>
-  <li><a href="mailto:bauzalarrosasantiago@gmail.com">Correo electrónico</a></li>
+  <li><a target="_blank" href="https://santiagolarrosa.tech">Mi sitio web</a></li>
+  <li><a target="_blank" href="https://www.linkedin.com/in/santiago-larrosa-bauz%C3%A1-99b740251/">Linkedin</a></li>
+  <li><a target="_blank" href="mailto:bauzalarrosasantiago@gmail.com">Correo electrónico</a></li>
 </ul>
 
 
