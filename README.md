@@ -1,23 +1,51 @@
-```html
 <h1>Desarrollador Full Stack - MERN</h1>
-```
+<h4>📍 Montevideo - Uruguay</h4>
 
-```js
-const devSanti = {
-  name: "Santiago Larrosa Bauza",
-  location: "Montevideo, Uruguay",
-  education: [
-    "Bachillerato en administración de empresas - UTU Villa Muñoz (Completado)",
-    "Carrera de desarrollador Full Stack - Coderhouse (Completado)",
-    "Ingeniería en sistemas - Universidad ORT (1 semestre)"
-  ],
-  skills: ["HTML", "CSS", "JavaScript", "React", "Vite", "NextJS", "NodeJS", "SASS(.scss)", "MongoDB"],
-  hobbies: ["Programar", "Deportes", "Cocinar"],
-  website: "https://santiagolarrosa.tech",
-  linkedin: "https://www.linkedin.com/in/santiago-larrosa-bauz%C3%A1-99b740251/",
-  email: "bauzalarrosasantiago@gmail.com",
-};
-```
+<h2>
+  👨‍🎓 Educación:
+</h2>
+
+<ul>
+  <li>Bachillerato en administración de empresas - UTU Villa Muñoz (Completado)</li>
+  <li>Carrera de desarrollador Full Stack - Coderhouse (Completado)</li>
+  <li>Ingeniería en sistemas - Universidad ORT (cursando)</li>
+</ul>
+
+<h2>
+  🎯 Habilidades:
+</h2>
+
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>SASS</li>
+  <li>JavaScript</li>
+  <li>React</li>
+  <li>NextJS</li>
+  <li>Vite</li>
+  <li>NodeJS</li>
+  <li>MongoDB</li>
+</ul>
+
+<h2>
+  🤾‍♀️ Hobbies:
+</h2>
+
+<ul>
+  <li>Programar</li>
+  <li>Entrenar deporte</li>
+  <li>Cocinar</li>
+</ul>
+
+<h2>
+  🔗 Links:
+</h2>
+
+<ul>
+  <li><a href="https://santiagolarrosa.tech">Mi sitio web</a></li>
+  <li><a href="https://www.linkedin.com/in/santiago-larrosa-bauz%C3%A1-99b740251/">Linkedin</a></li>
+  <li><a href="mailto:bauzalarrosasantiago@gmail.com">Correo electrónico</a></li>
+</ul>
 
 
 
