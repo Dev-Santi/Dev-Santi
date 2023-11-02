@@ -20,11 +20,14 @@
   <li>CSS</li>
   <li>SASS</li>
   <li>JavaScript</li>
+  <li>TypeScript</li>
   <li>React</li>
   <li>NextJS</li>
   <li>Vite</li>
   <li>NodeJS</li>
+  <li>Express</li>
   <li>MongoDB</li>
+  <li>Playwright</li>
 </ul>
 
 <h2>
