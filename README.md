@@ -21,6 +21,7 @@
   <li>SASS</li>
   <li>JavaScript</li>
   <li>TypeScript</li>
+  <li>Tailwind</li>
   <li>React</li>
   <li>NextJS</li>
   <li>Vite</li>
@@ -35,8 +36,8 @@
 </h2>
 
 <ul>
-  <li>Programar</li>
-  <li>Entrenar deporte</li>
+  <li>Programar / estudiar</li>
+  <li>Hacer deporte</li>
   <li>Cocinar</li>
 </ul>
 
