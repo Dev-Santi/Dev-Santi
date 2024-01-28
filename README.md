@@ -27,6 +27,7 @@
   <li>Vite</li>
   <li>NodeJS</li>
   <li>Express</li>
+  <li>NestJS</li>
   <li>MongoDB</li>
   <li>Playwright</li>
 </ul>
