@@ -29,6 +29,7 @@
   <li>Express</li>
   <li>NestJS</li>
   <li>MongoDB</li>
+  <li>SQL</li>
   <li>Playwright</li>
 </ul>
 
