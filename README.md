@@ -31,6 +31,7 @@
   <li>MongoDB</li>
   <li>SQL</li>
   <li>Playwright</li>
+  <li>Selenium</li>
 </ul>
 
 <h2>
