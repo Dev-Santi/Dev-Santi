@@ -21,13 +21,9 @@
   <li>SASS</li>
   <li>JavaScript</li>
   <li>TypeScript</li>
-  <li>Tailwind</li>
   <li>React</li>
-  <li>NextJS</li>
-  <li>Vite</li>
   <li>NodeJS</li>
   <li>Express</li>
-  <li>NestJS</li>
   <li>MongoDB</li>
   <li>SQL</li>
   <li>Playwright</li>
@@ -49,7 +45,6 @@
 </h2>
 
 <ul>
-  <li><a target="_blank" href="https://santiagolarrosa.tech">Mi sitio web</a></li>
   <li><a target="_blank" href="https://www.linkedin.com/in/santiago-larrosa-bauz%C3%A1-99b740251/">Linkedin</a></li>
   <li><a target="_blank" href="mailto:bauzalarrosasantiago@gmail.com">Correo electrónico</a></li>
 </ul>
